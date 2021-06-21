@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE  34.1
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
+
+#EXTINF:-1 group-title="NOTICIAS", TODO NOTICIAS   
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+#EXTINF:-1 group-title="NOTICIAS", C5N  25.2
+https://www.youtube.com/watch?v=wlNWw5k14y8
+
+
+#EXTINF:-1 group-title="NOTICIAS", LN+  25.3
+https://www.youtube.com/watch?v=ns8-5XKA0Ww                 
+
