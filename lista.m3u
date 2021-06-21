@@ -10,12 +10,24 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
 #EXTINF:-1 group-title="NOTICIAS", TODO NOTICIAS   
-https://www.youtube.com/watch?v=wHn1_QVoXGM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624272138/ei/qhjQYL7-JYq95gTv_oLwAg/ip/190.103.144.46/id/wHn1_QVoXGM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgasJhmAc4MnxWgQD34gCYkWnaRjdXn7I_9YjjPgaFcSQCIQCKvYV-yqo7b49Q3WcZS84dMlxFUOw5VIq5kR3YuFJIWw%3D%3D/file/index.m3u8
+#https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 group-title="NOTICIAS", C5N  25.2
-https://www.youtube.com/watch?v=wlNWw5k14y8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624272692/ei/1BrQYMmDKLyC-LAPlYqS4AI/ip/190.103.144.46/id/wlNWw5k14y8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMNreupUWIvQcw_QJlXBBlPoV-Mp6wJZYMZCSgNxGnTYCIQCruvY65ATAxxbIxQU4FOhJqV6fWyl7QYTZ2h6LC0G06A%3D%3D/file/index.m3u
+#https://www.youtube.com/watch?v=wlNWw5k14y8
 
 
 #EXTINF:-1 group-title="NOTICIAS", LN+  25.3
-https://www.youtube.com/watch?v=ns8-5XKA0Ww                 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624273041/ei/MRzQYOSvBoT2wgS605DQAw/ip/190.103.144.46/id/ns8-5XKA0Ww.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgK08N7UtXtsljA7qfyto6FqQkwzvIzz0ZDiK0ekJyL4oCIQDFW-XrmEP_7P44d7MIr93odutmTtyfEYGeUWEfaeXGlA%3D%3D/file/index.m3u8
+#https://www.youtube.com/watch?v=ns8-5XKA0Ww                 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9  35.1 
+http://54.39.51.30:25461/5492616835156/anL45iGR5d/12622
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+#El Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
